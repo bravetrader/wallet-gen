@@ -29,3 +29,4 @@ Start and generate your wallet, wallet address info will be save in folder walle
 bun start
 ```
 Faucet: [octra faucet](https://faucet.octra.network/)
+Source: [octra](https://github.com/octra-labs/octra_pre_client)
